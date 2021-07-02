@@ -1,0 +1,22 @@
+{
+  "name": "w10-d4-fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahalpha2096/node-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahalpha2096/node-stats/issues"
+  },
+  "homepage": "https://github.com/Bahalpha2096/node-stats#readme",
+  "dependencies": {
+    "simple-statistics": "^7.7.0"
+  }
+}
